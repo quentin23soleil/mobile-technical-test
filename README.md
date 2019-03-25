@@ -1,4 +1,4 @@
-# # Drivy Android Challenge
+# Drivy Android Challenge
 Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
 You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
 
