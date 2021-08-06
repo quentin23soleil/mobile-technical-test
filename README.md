@@ -1,6 +1,6 @@
-# Drivy Android Challenge
-Looking for a job? Check out our [open positions](https://en.drivy.com/jobs).
-You can also take a look at our [engineering blog](https://drivy.engineering/) to learn more about the way we work.
+# Getaround Mobile Challenge
+Looking for a job? Check out our [open positions](https://fr.getaround.com/jobs).
+You can also take a look at our [engineering blog](https://getaround.tech/) to learn more about the way we work.
 
 ## Guidelines
 - Clone this repo (do **not** fork it)
@@ -14,15 +14,15 @@ We are interested in seeing code that is clean, extensible and robust, so don’
 
 Please also note that all prices are stored as integers (in cents). Do not forget to format them if needed.
 
-We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Drivy or anywhere else!
+We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Getaround or anywhere else!
 
 Feel free to use any libs and technics you are confortable with.
 
 ## Sending Your Results
-Once you are done, please send your results to someone from Drivy.
+Once you are done, please send your results to someone from Getaround.
 
 - If you are already in discussion with us, send it directly to the person you are talking to.
-- If not, use the application form [on every job listing](https://en.drivy.com/jobs).
+- If not, use the application form [on every job listing](https://fr.getaround.com/jobs).
 
 You can send your Github project link or zip your directory and send it via email.
 If you do not use Github, don’t forget to attach your `.git` folder.
@@ -31,7 +31,7 @@ Good luck!
 ---
 
 ## Challenge
-We are building a car-sharing platform. Let’s call it Drivy :)
+We are building a car-sharing platform. Let’s call it Getaround :)
 Car owners can already list their car on our platform and backend developers have provided an API for us to query.
 
 Our plan is now to let any person (let’s call them « driver ») see cars they could rent.
