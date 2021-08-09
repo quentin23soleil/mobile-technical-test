@@ -5,7 +5,9 @@ You can also take a look at our [engineering blog](https://getaround.tech/) to l
 ## Guidelines
 - Clone this repo (do **not** fork it)
 - Solve the levels in ascending order
-- Only do one commit per level and include the `.git` directory when submitting your test
+- Only do one commit per level and include the `.git` directory when submitting your test 
+- Please use Swift and UIKit for iOS 
+- Please use Kotlin for Android 
 
 ## Pointers
 You can have a look at the higher levels, but please do the simplest thing that could work for the level you’re currently solving.
