@@ -10,13 +10,13 @@ You can also take a look at our [engineering blog](https://getaround.tech/) to l
 - Please use Kotlin for Android 
 
 ## Pointers
-You can have a look at the higher levels, but please do the simplest thing that could work for the level you’re currently solving.
+You can have a look at the higher levels, but *please do the simplest* thing that could work for the level you’re currently solving.
 
-We are interested in seeing code that is clean, extensible and robust, so don’t overlook edge cases, …
+We are interested in seeing code that is clean, simple and robust, so don’t overlook edge cases, …
 
 We don’t except you to be a top-notch designer, but we want to see how you would handle some styling of this app. Do not hesitate to take inspiration from Getaround or anywhere else!
 
-Feel free to use any libs and technics you are confortable with.
+Feel free to use any libs and technics you are confortable with but again, keep it simple and do not make a showcase app for every library you know. 
 
 ## Sending Your Results
 Once you are done, please send your results to someone from Getaround.
@@ -47,7 +47,7 @@ Mockup #1 gives you an idea of what we would like to see.
 
 ### Level 2: display a car details
 
-When a driver click on a car, we want to display a second view with more details.  
+When a driver clicks on a car, we want to display a second view with more details.  
 Mockup #2 gives you an idea of what we would like to see.
 
 ![Mockup #2](details.png?raw=true "Mockup #2")
